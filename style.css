@@ -1,0 +1,52 @@
+/*
+
+ */
+
+/*
+Header styles
+ */
+
+ul.nav {
+	display: block;
+}
+
+/*\
+about me styles
+ */
+
+.about-me img {
+	float: left;
+	margin-right: 2rem;
+}
+
+.about-me {
+	background-color: grey;
+}
+
+.family p {
+	border: 2px solid black;
+	margin-top: 2rem;
+}
+
+/*
+family section
+ */
+
+.family {
+	padding-top: 5rem;
+	margin: 20px;
+	float: inside;
+}
+
+.jumbotron {
+	margin: 2rem;
+}
+
+footer {
+	margin-left: 30rem;
+}
+
+.light {
+	background-color: black;
+	color: white;
+}
